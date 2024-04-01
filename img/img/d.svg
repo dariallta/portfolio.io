@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: TAN-NIMBUS, 'TAN - NIMBUS';
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 29px;
+      }
+
+      .cls-2 {
+        font-family: HelveticaNeue, 'Helvetica Neue';
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #dbba9c;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-4 {
+        fill: #f2e5c9;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: #dbba9c;
+      }
+
+      .cls-6 {
+        fill: #eddccc;
+      }
+
+      .cls-7 {
+        fill: #e8d5c1;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M723.73,288.18h0s-404.96,404.97-404.96,404.97h-.01l27.94-345.64c1.22-15.15,13.19-27.21,28.33-28.55l348.7-30.78Z"/>
+  <path class="cls-5" d="M723.73,288.19l-50.56,299.94-2.03.03c-28.21.48-50.98,23.18-51.53,51.38v.7s-300.84,52.91-300.84,52.91l404.96-404.96Z"/>
+  <g>
+    <rect class="cls-4" x="162.88" y="276.27" width="572.7" height="379.29" rx="38.21" ry="38.21" transform="translate(79.95 -65.61) rotate(9.17)"/>
+    <rect class="cls-3" x="191.51" y="295.23" width="515.43" height="341.36" rx="34.39" ry="34.39" transform="translate(79.95 -65.61) rotate(9.17)"/>
+    <g>
+      <text class="cls-2" transform="translate(255.09 403.16) rotate(9.17)"><tspan x="0" y="0">Russian, Ukrainian</tspan><tspan x="0" y="34.8">Belarusian Jews</tspan><tspan x="0" y="69.6">Finnish</tspan><tspan x="0" y="104.4">Siberian</tspan><tspan x="0" y="139.2">Manchurian</tspan></text>
+      <text class="cls-2" transform="translate(536.94 448.63) rotate(9.17)"><tspan x="0" y="0">89.6%</tspan><tspan x="0" y="34.8">9.6%</tspan><tspan x="0" y="69.6">0.5%</tspan><tspan x="0" y="104.4">0.3%</tspan><tspan x="0" y="139.2">0.25%</tspan></text>
+    </g>
+    <text class="cls-1" transform="translate(264.5 351.59) rotate(9.17)"><tspan x="0" y="0">Ancestry Composition</tspan></text>
+  </g>
+  <path class="cls-7" d="M619.6,640.24l-5.79,294.27c-14.83,14.83-38.85,14.83-53.68,0l-241.36-241.36,300.83-52.91Z"/>
+  <path class="cls-7" d="M965.09,583.23l-291.92,4.9,50.56-299.94,241.36,241.36c14.83,14.83,14.83,38.85,0,53.68Z"/>
+  <path class="cls-6" d="M965.09,583.23l-351.28,351.28,5.79-294.27v-.7c.56-28.2,23.33-50.9,51.54-51.38l2.03-.03,291.92-4.9Z"/>
+</svg>
